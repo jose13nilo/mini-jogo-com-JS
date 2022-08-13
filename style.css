@@ -1,0 +1,60 @@
+body{
+    background-color: cyan;
+}
+
+#caixa{
+
+    top: 50px;
+    left: 50px;
+
+    background-image: url("background.jpg");
+    color: white;
+
+    border: thick  groove brown;
+
+    height: 720px;
+    width: 1200px;
+
+    position: absolute;
+
+    border-radius: 25px;
+
+}
+
+#personagem{
+    
+    height: 100px;
+    width: 100px;
+
+    position: absolute;
+
+}
+
+#link{
+    color: deeppink;
+    position: absolute;
+
+    height: 50px;
+}
+
+#placar{
+
+    top: 300px;
+
+    height: 100px;
+    width: 100px;
+
+    background-color: chocolate;
+
+    position: absolute;
+
+    left: 1250px;
+
+    border-radius: 25px;
+    border: thick  groove brown;
+
+    text-align: center;
+
+    font-size: 80px;
+
+}
